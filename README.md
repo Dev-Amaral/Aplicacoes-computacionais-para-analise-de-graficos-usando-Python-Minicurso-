@@ -1,8 +1,7 @@
-<center><img src='logo.jpeg' width=100px> </center>
-
-
  Este repositório contém os materiais e códigos desenvolvidos durante o minicurso de "Aplicações Computacionais para análise de gráficos usando o Python". Que ocorreu do dia **09/12 ao dia 13/12**, formando duas turmas. No total 50 pessoas se inscreveram.
 O projeto foi uma avaliação prática da Atividade Complementar de Extensão (ACEX)
+
+<div style ='display: flex; justify-content: center;'><img src='logo.jpeg' width=300px> </div>
 
  O curso aborda conceitos fundamentais de programação em **Python** utilizando o ambiente de desenvolvimento do **Google Colab** e trouxe **Aplicações Computacionais para Análises de Gráficos**.
 
