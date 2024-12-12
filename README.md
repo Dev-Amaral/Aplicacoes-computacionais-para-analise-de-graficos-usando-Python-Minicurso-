@@ -1,4 +1,4 @@
-<div style ='display: flex; justify-content: center;'><img src='logo.jpeg' width=100px> </div>
+<center><img src='logo.jpeg' width=100px> </center>
 
 
  Este repositório contém os materiais e códigos desenvolvidos durante o minicurso de "Aplicações Computacionais para análise de gráficos usando o Python". Que ocorreu do dia **09/12 ao dia 13/12**, formando duas turmas. No total 50 pessoas se inscreveram.
