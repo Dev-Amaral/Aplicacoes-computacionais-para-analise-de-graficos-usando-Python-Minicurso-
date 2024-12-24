@@ -17,7 +17,7 @@ O projeto foi uma avaliação prática da Atividade Complementar de Extensão (A
 
 **Orientador: Prof. Allan Sousa** -> [git hub](https://github.com/ProfAllanIFBA)
 
-[Video aula - Jogo de matemática em Python](https://youtu.be/HN1AFtwFF7M?si=P_m4iJZIGJcmF-wi](https://youtu.be/HN1AFtwFF7M?si=w1kentmtkRz4A_2j)
+[Video aula - Jogo de matemática em Python](https://youtu.be/HN1AFtwFF7M?si=w1kentmtkRz4A_2j)
 
  Se quiser acessar o Notebook pelo Google Colab :
 
